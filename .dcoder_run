@@ -7,10 +7,8 @@
 #yarn start
 
 
-
-
 ##add all archives 
-git add . 
+#git add . 
 
 
 ## status 
@@ -23,12 +21,18 @@ git add .
 
 
 ## git config, then commit
-#git commit -m 'reading chapters ' 
+#git commit -m 'dcoder app commit test' 
 
 
 ##git config, commit, then remote
-#git remote add origin https://ueredeveloper:ifConni1@github.com/ueredeveloper/FunctionalReactCristianSalcesco.git 
+#git remote add origin https://ueredeveloper:ifConni1@github.com/ueredeveloper/mindmap.git 
 
 
 ## git add ., status, commit, remote, then push
 #git push -u origin master
+
+#git status
+
+#git pull
+
+git add . 

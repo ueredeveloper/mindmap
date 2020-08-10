@@ -1,0 +1,34 @@
+# write commands to install modules/lib and run your project, one in each line.
+# node, npm and yarn commands are available along with other basic linux commands.
+# command to install modules
+#yarn
+
+# command to run
+#yarn start
+
+
+
+
+##add all archives 
+git add . 
+
+
+## status 
+#git status 
+
+
+## config 
+#git config --global user.email "ueredeveloper@gmail.com"
+#git config --global user.name "ueredeveloper" 
+
+
+## git config, then commit
+#git commit -m 'reading chapters ' 
+
+
+##git config, commit, then remote
+#git remote add origin https://ueredeveloper:ifConni1@github.com/ueredeveloper/FunctionalReactCristianSalcesco.git 
+
+
+## git add ., status, commit, remote, then push
+#git push -u origin master

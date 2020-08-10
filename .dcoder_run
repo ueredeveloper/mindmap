@@ -35,6 +35,8 @@
 
 #git pull
 
-git add .dcoder_run 
-git commit -m 'dcoder run'
-git pull
+##git add .dcoder_run 
+##git commit -m 'dcoder run'
+##git pull
+
+git add . 
